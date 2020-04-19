@@ -1,0 +1,4 @@
+[core]
+    remote = newremote
+['remote "newremote"']
+    url = s3://training-resources-hotelbeds
