@@ -1,0 +1,7 @@
+md5: be3ee7a30e4e92c169e5ddff610db606
+outs:
+- md5: 1377d5f486399b95f8a146b0e1375a77
+  path: bookings_sample_1_suppliers.csv
+  cache: true
+  metric: false
+  persist: false
