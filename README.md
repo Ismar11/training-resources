@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ismar11/training-resources/luis)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ismar11/training-resources/master)
 
 # Statistics training resources
 
