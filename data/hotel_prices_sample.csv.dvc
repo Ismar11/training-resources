@@ -1,0 +1,7 @@
+md5: 0db9ff11bd7542c03f5803e273ed2425
+outs:
+- md5: 4177ce2caf52e692e91e1ba73d18be5c
+  path: hotel_prices_sample.csv
+  cache: true
+  metric: false
+  persist: false
